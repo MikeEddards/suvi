@@ -51,6 +51,8 @@ buck-out/
 */fastlane/report.xml
 */fastlane/Preview.html
 */fastlane/screenshots
+.expo
 
 # Bundle artifact
 *.jsbundle
+.expo/web/cache/development/babel-loader/0b7389d9735f3880b30112167849ed39.json.gz
